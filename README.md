@@ -4,9 +4,9 @@
 
 
 ## I'm a Game Generalist, Jr. Developer.
-- ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on my Game Assets.
-- 🌱 I’m currently learning C and C#
+- You can find my projects here [portfolio]
+- I’m currently working on my Game Assets.
+- I’m currently learning C and C#
 - 
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="Pinar S Bakirci | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -25,14 +25,14 @@
 
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary> GitHub Stats</summary>
 
   <img align="left" alt="Pınar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pnars&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
-  <summary>:zap: Most Used Languages</summary>
+  <summary> Most Used Languages</summary>
 
 <img align="left" alt="Pınar's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnars" />
 
