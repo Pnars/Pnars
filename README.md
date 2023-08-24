@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-## I'm a Game Generalist, Jr. Developer, Designer.
+## I'm a Game Generalist, Jr. Developer.
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my Game Assets.
 - 🌱 I’m currently learning C and C#
