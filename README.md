@@ -7,7 +7,7 @@
 - You can find my projects here [portfolio]
 - I’m currently working on my Game Assets.
 - I’m currently learning C and C#
-- 
+  
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="Pinar S Bakirci | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
